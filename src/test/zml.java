@@ -3,6 +3,7 @@ package test;
 public class zml {
 
 	public static void main(String[] args) {
-		System.out.println("·ÖÖ§¿ª·¢");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("wsq");
 	}
 }
